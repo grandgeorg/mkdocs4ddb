@@ -224,6 +224,8 @@ td, th {
 
 .wy-nav-content a, .wy-nav-content a:hover, .wy-nav-content a:active, .wy-nav-content a:focus {
     color: #a5003b;
+}
+.wy-nav-content a:hover {
     text-decoration: underline;
 }
 .wy-nav-content a:visited {
