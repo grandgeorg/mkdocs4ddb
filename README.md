@@ -16,3 +16,4 @@ mkdocs Vorlage für DDB Handbücher
 - Passen Sie die ```mkdocs.yml``` Datei an (insbes. ```nav``` etc.).
 - Editieren Sie die md-Dateien ...
 
+Die von mkdocs erstellte Dokumentation dieser Vorlage finden Sie unter: [https://grandgeorg.github.io/mkdocs4ddb/](https://grandgeorg.github.io/mkdocs4ddb/)
