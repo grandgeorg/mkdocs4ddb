@@ -6,4 +6,4 @@ Date:    2019-05-24
 
 Verwenden Sie die [Cheatsheet][L1], um sich einen Überblick über die Funktionen zu verschaffen.
 
-[L1]: /cheatsheet.html "Cheatsheet"
+[L1]: ./cheatsheet.html "Cheatsheet"
