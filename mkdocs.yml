@@ -18,9 +18,9 @@ theme:
 
 # Options
 extra:
-  palette:
-    primary: 'blue grey'
-    accent: 'blue grey'
+  # palette:
+  #   primary: 'blue grey'
+  #   accent: 'blue grey'
   wording_next: 'vor'
   wording_previous: 'zurück'
   wording_search_docs: 'Handbuch durchsuchen'
