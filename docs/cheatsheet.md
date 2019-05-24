@@ -181,8 +181,8 @@ Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit.[^2]
 - <--
 - <-->
 - =/=
-- 1/4, 2/32
-- 1st 2nd 3te
+- 1/4, 2/3, 5/6
+- 1st 2nd 3rd
 
 
 ## Marker
